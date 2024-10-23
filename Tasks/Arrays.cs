@@ -6,10 +6,26 @@
 
 
 
+
 namespace Offline.Bootcamp.Tasks;
 
 public class Arrays
 {
+    public double AverageOfJaggedArray(int[][] input)
+    {
+        throw new NotImplementedException();
+    }
+
+    public int FindLargestElementInMatrix(int[,] input)
+    {
+        throw new NotImplementedException();
+    }
+
+    public double FindMaxInJaggedArray(int[][] input)
+    {
+        throw new NotImplementedException();
+    }
+
     public int FindMissingNumber(int[] nums)
     {
         throw new NotImplementedException();
@@ -20,7 +36,22 @@ public class Arrays
         throw new NotImplementedException();
     }
 
+    public int[] FlattenJaggedArray(int[][] input)
+    {
+        throw new NotImplementedException();
+    }
+
     public bool IsArraySorted(int[] array)
+    {
+        throw new NotImplementedException();
+    }
+
+    public int IsSymmetricMatrix(int[,] input)
+    {
+        throw new NotImplementedException();
+    }
+
+    public IAsyncEnumerable<char>? JaggedArrayToString(int[][] input)
     {
         throw new NotImplementedException();
     }
@@ -55,12 +86,32 @@ public class Arrays
         throw new NotImplementedException();
     }
 
+    public int[] RotateMatrix90Degrees(int[,] input)
+    {
+        throw new NotImplementedException();
+    }
+
     public int[] SortArrayByParity(int[] nums)
     {
         throw new NotImplementedException();
     }
 
+    public IAsyncEnumerable<object> SumOfDiagonalElements(int[,] input)
+    {
+        throw new NotImplementedException();
+    }
+
     public int SumOfEvenNumbers(int[]? array)
+    {
+        throw new NotImplementedException();
+    }
+
+    public IAsyncEnumerable<object> SumOfJaggedArray(int[][] input)
+    {
+        throw new NotImplementedException();
+    }
+
+    public IAsyncEnumerable<object> TransposeMatrix(int[,] input)
     {
         throw new NotImplementedException();
     }
